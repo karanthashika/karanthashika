@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Ashika
 
-<!--
-**karanthashika/karanthashika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science & Engineering Student  
+💻 Learning Python, Data Structures & Algorithms  
+🌱 Exploring Full-Stack Development and Open Source
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Smart Study Planner
+A Flask-based web application that helps students organize subjects and study sessions.
+
+**Tech:** Python, Flask, SQLite, HTML, CSS, JavaScript
+
+### BST Library Search Optimization
+A Java project focused on improving library search using Binary Search Trees.
+
+**Tech:** Java, Data Structures
+
+## 🌱 Open Source
+
+Working on a documentation contribution to **PacificDB**, improving the Python SDK quick-start guide.
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Python
+- Git & GitHub
+- Open Source Development
+- Full-Stack Development
+
+## 🎯 Goals
+
+- Solve DSA problems consistently
+- Build useful software projects
+- Make more open-source contributions
+- Prepare for software engineering placements
