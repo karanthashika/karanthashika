@@ -18,19 +18,12 @@ A Java project focused on improving library search using Binary Search Trees.
 
 ## 🌱 Open Source
 
-Working on a documentation contribution to **PacificDB**, improving the Python SDK quick-start guide.
+Contributed to **PacificDB** by improving the Python SDK quick-start documentation.
 
-## 📚 Currently Learning
-
-- Data Structures & Algorithms
-- Python
-- Git & GitHub
-- Open Source Development
-- Full-Stack Development
 
 ## 🎯 Goals
 
-- Solve DSA problems consistently
-- Build useful software projects
-- Make more open-source contributions
-- Prepare for software engineering placements
+- Improve problem-solving skills
+- Build practical software projects
+- Contribute to open source
+- Keep learning and growing
