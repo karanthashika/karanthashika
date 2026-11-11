@@ -20,7 +20,7 @@ An AI-powered shopping application designed to make agent-driven purchases safer
 
 **Tech:** JavaScript, React, Vite, Node.js, Express.js, Groq, Gemini, Channel3, PayPal APIs, Turso.
 
-🔗 [Live Demo](https://agentcart-phi.vercel.app/) | [Source Code](https://github.com/karanthashika/AgentCart) | [Demo Video](https://youtu.be/T-HRLmx0J_0)
+🔗 [Live Demo](https://agentcart-phi.vercel.app/) | [Source Code](https://github.com/karanthashika/AgentCart) 
 
 ### 📚 Smart Study Planner
 
