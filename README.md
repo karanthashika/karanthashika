@@ -1,4 +1,4 @@
-# Hi 👋 I'm Ashika
+# Heyaa 👋 I'm Ashika
 
 🎓 Information Science & Engineering Student  
 💻 Aspiring Software Developer  
